@@ -1,0 +1,6 @@
+# Ignore all files and directories in the parent directory
+../*
+
+# Un-ignore the current directory
+!./
+
