@@ -7,7 +7,7 @@ Sandbox Platform 是一个用于简化蜜罐沙箱制作步骤的平台。它通
 
 ### 安装依赖
 
-首先，确保你已经安装了 Python3.10 和 Node.js。然后，在项目的根目录下运行以下命令来安装 Python 依赖：
+首先，确保你已经安装了 Python3.10 和 Node.jsv20.15.0。然后，在项目的根目录下运行以下命令来安装 Python 依赖：
 ```sh
 pip install -r requirements.txt
 启动后端服务
